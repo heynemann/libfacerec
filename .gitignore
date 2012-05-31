@@ -1,1 +1,7 @@
 *.pyc
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+fisherfaces
+libopencv_facerec.a
+Makefile
